@@ -9,27 +9,28 @@ I have completed my Superstore Sales Data visual Representaion using tableau Pub
 
 
 What I learned during this project :
- Challenge1  
-Introduction to Tableau & Business Challenge
-Creating Multiple Charts in Tableau
-Introduction To Tableau Charting Methods
-Additional Tableau Charts
-More Charting Techniques
-Charts Standout Techniques
-Making Charts Standout
-More Formatting Techniques
-Detailed Filters, Groups & Sets
-Tableau Filtering Methods
-Groups And Sets Methods
-Calculated Fields & Parameters in Tableau
-Calculated Fields And Formulas
-Parameters Creating Selection
-Tableau Dashboards & Stories
-Tableau Dashboards
-Dashboard Filters And Stories
-Tableau Assignments
+1 . Introduction to Tableau & Business Challenge
+2. Creating Multiple Charts in Tableau 
+3. Introduction To Tableau Charting Methods
+4. Additional Tableau Charts
+5. More Charting Techniques
+6.Charts Standout Techniques 
+7.Making Charts Standout
+8.More Formatting Techniques
+9.Detailed Filters, Groups & Sets
+10.Tableau Filtering Methods
+11.Groups And Sets Methods 
+12.Calculated Fields & Parameters in Tableau
+13.Calculated Fields And Formulas
+14.Parameters Creating Selection
+15.Tableau Dashboards & Stories
+16.Tableau Dashboards
+17.Dashboard Filters And Stories
+19.Tableau Assignments
 
 Here A link to  interact and check it out on your computer desktop broswer . : https://public.tableau.com/app/profile/ajinkya.adsule/viz/SuperstoreSalesInteractiveDashboardwihBubblechartforvisualrespresntationInternshipProject/Dashboard1
+
+Here A link to check out my other work on Tableau Public : https://public.tableau.com/app/profile/ajinkya.adsule/vizzes
 
 Project files , data sets  are provided  in the repositery folder .
 
